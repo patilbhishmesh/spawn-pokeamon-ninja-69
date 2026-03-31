@@ -70,5 +70,5 @@ Once you have installed the correct dependencies, click the green 'Run' icon at 
 
 ## **DISCLAIMER**
 
-Please note that self botting is against Discord's Terms of Service and being discovered using a self bot may result in your account being banned. To avoid this, keep knowledge of your self bot to a minimum and use a throwaway account. I am not responsible for any accounts lost due to the self bot. I also recommend checking the self bot channel's Message . **If it has, it would be a good idea to solve it.**
+Please note that self botting is against Discord's Terms of Service and being discovered using a self bot may result in your account being banned. To avoid this, keep knowledge of your self bot to a minimum and use a throwaway account. I am not responsible for any accounts lost due to the self bot. I also recommend checking the self bot channel's Message . **If it has, it would be a good idea to solve it.***
 ---
